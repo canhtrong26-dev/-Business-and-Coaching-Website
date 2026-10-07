@@ -1,10 +1,10 @@
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Services from './components/Services';
-import WhyChooseUs from './components/WhyChooseUs';
-import Footer from './components/footer';
-import Whatour from './components/whatour';
-import Newsletter from './components/Newsletter';
+import Navbar from './components/Homepage/Navbar';
+import Hero from './components/Homepage/Hero';
+import Services from './components/Homepage/Services';
+import WhyChooseUs from './components/Homepage/WhyChooseUs';
+import Footer from './components/Homepage/footer';
+import Whatour from './components/Homepage/whatour';
+import Newsletter from './components/Homepage/Newsletter';
 
 
 export default function Home() {

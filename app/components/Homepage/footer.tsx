@@ -4,6 +4,7 @@ export default function Footer() {
       <div className="mx-auto flex max-w-6xl flex-col gap-10 md:flex-row md:justify-between">
 
        
+
         <div>
           <h2 className="text-xl font-bold">Jo-Jean Imoh-Ita</h2>
           <p className="mt-4 text-sm text-gray-300">
