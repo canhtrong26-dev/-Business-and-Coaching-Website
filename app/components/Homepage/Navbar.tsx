@@ -9,9 +9,9 @@ export default function Navbar() {
 
             <div className="flex items-center gap-4 md:gap-8">
                 <div className="flex gap-4 text-sm text-[#1B2A4A] md:gap-8 md:text-base">
-                    <Link href="/" >Home</Link>
-                    <Link href="/about">About</Link>
-                    <Link href="/services">Services</Link>
+                    <Link className="hover:text-blue-500" href="/" >Home</Link>
+                    <Link className="hover:text-blue-500" href="/about">About</Link>
+                    <Link className="hover:text-blue-500" href="/services">Services</Link>
                 </div>
 
                 <Link
